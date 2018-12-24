@@ -2,7 +2,7 @@
 
 Finally, something useful:
 
-https://www.analog.com/en/education/education-library/scientist_engineers_guide.html
+[The Scientist & Engineer's Guide to Digital Signal Processing](https://www.analog.com/en/education/education-library/scientist_engineers_guide.html)
 
 This book is awesome, however I find managing 36 PDF files cumbersome.
 
